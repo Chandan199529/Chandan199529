@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chandan199529
-- 👀 I’m interested in python
+- 🥇 I have skills in python, sql, powerbi, django, excel
 - 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chandanbairwa29@gmail.com
 
 <!---
